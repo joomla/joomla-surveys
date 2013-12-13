@@ -1,4 +1,6 @@
-joomla-surveys
-==============
+# Surveys Working Group
 
-Home of the Surveys Working Group for the Joomla Project.
+Welcome to the working group for Joomla! surveys.
+
+* [General Information](https://github.com/joomla/joomla-surveys/wiki)
+* [Things to do and discuss](https://github.com/joomla/joomla-surveys/issues)
